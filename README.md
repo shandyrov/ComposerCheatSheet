@@ -12,3 +12,8 @@ composer config extra.symfony.allow-contrib true
           "allow-contrib": "true"
         }
 ```        
+
+# Remove package
+```php
+composer remove vendor/package
+```
