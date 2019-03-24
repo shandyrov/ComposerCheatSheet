@@ -4,7 +4,7 @@
 composer config extra.symfony.allow-contrib true
 ```
 
-### Or add
+### Or add in composer.json
 
 ```php
 "extra": {
